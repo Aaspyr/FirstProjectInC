@@ -7,9 +7,9 @@ int main(void)
     int a;
     int b;
 
-    printf("Podaj pierwsza liczbe: ");
+    printf("Write first number: ");
     scanf("%d",&a);
-    printf("Podaj druga liczbe: ");
+    printf("Write second number: ");
     scanf("%d",&b);
 
     if (a%2 == 0)
